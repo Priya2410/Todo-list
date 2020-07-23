@@ -1,0 +1,13 @@
+div{
+    width:360px;
+    margin: 0 auto;
+    border:2px solid gray;
+}
+body{
+    background: linear-gradient(to left,#0022fc, #87d5ff);
+}
+h1{
+    background-color: #87d5ff;
+    width:200px;
+    text-transform: uppercase;
+}
