@@ -11,3 +11,7 @@ h1{
     width:200px;
     text-transform: uppercase;
 }
+.decor{
+    text-decoration: line-through;
+    color:gray;
+}
